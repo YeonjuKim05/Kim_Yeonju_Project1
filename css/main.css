@@ -1,0 +1,26 @@
+.hidden
+{
+	display: none;
+}
+
+#container
+{
+	width: 900px;
+	margin: 0 auto; 
+}
+
+body
+{
+	font-family: Arial, Heletica, sans-serif;
+	font-size: 16px;
+	color: #333;
+}
+
+h1
+{
+	font-family: "Times New Roman", serif;
+	font-size: 50px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+	letter-spacing: -1px;
+}
